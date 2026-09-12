@@ -3,5 +3,5 @@ Job details were collected from the linkedin job postings. I am following Luke B
 
 From this dashboard, prospective job searchers can specifically look for data jobs such as jobs for Data Engineers, Data Scientists and Data Anlysts, where it is located, average yearly salary and hourly salary rate. 
 
-This was a fun learning project while exploring powerBI/
+This was a fun learning project while exploring powerBI.
 
